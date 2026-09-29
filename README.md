@@ -198,14 +198,3 @@ uv run pytest tests/ --cov=src --cov-report=term-missing
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-## Author
-
-**he-buyiyang** - MartensonCordona20@outlook.com
-
-## Acknowledgments
-
-This project draws inspiration from:
-- [LangGraph](https://github.com/langchain-ai/langgraph) - Agent orchestration
-- [LeRobot](https://github.com/huggingface/lerobot) - Robotics toolkit
-- Academic research on embodied AI and agent systems
